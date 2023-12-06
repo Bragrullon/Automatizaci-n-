@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZ8OHeCmE1kA2CNfiyMclbvOx13nIAIMSjwRX9HckW9v7G7bYMqizgY18tTrJkh1jlwxmbly59BIA2mI/DPS+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bpera\\source\\repos\\Automatizacion\\Automatizacion\\Automatizacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bpera\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bpera\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Bpera\\.nuget\\packages\\selenium.support\\4.15.0\\selenium.support.4.15.0.nupkg.sha512",
+    "C:\\Users\\Bpera\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\Bpera\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bpera\\.nuget\\packages\\xunit.assert\\2.6.2\\xunit.assert.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
